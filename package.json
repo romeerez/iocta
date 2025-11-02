@@ -1,7 +1,7 @@
 {
   "name": "iocta",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Dependency Injection containers for TypeScript",
   "repository": "https://github.com/romeerez/iocta",
   "files": [
@@ -9,11 +9,11 @@
   ],
   "types": "./dist/index.d.ts",
   "main": "./dist/index.cjs",
-  "module": "./dist/index.mjs",
+  "module": "./dist/index.js",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "import": "./dist/index.mjs",
+      "import": "./dist/index.js",
       "require": "./dist/index.cjs"
     }
   },

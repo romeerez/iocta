@@ -1,5 +1,5 @@
 import { rakeDb } from "rake-db/node-postgres";
-import { runModules } from "../../../../src/run.js";
+import { runModules } from "iocta";
 import { configModule } from "../config.module.js";
 
 const {

@@ -18,8 +18,8 @@ importers:
         specifier: ^17.2.3
         version: 17.2.3
       iocta:
-        specifier: 0.0.1
-        version: 0.0.1
+        specifier: 0.0.2
+        version: 0.0.2
       jsonwebtoken:
         specifier: ^9.0.0
         version: 9.0.2
@@ -1291,8 +1291,8 @@ packages:
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
 
-  iocta@0.0.1:
-    resolution: {integrity: sha512-AIoaLMzlHqFKS3X4Jat4281ae7tnAEntAhSe7q3oWKS1z4vsr82ayUF3X2Z7nkZANkMALsKRjbslIEdYe9bgtA==}
+  iocta@0.0.2:
+    resolution: {integrity: sha512-ixv6FsmXL7hfbJFA+Bdt0SMKOhqmEdIVnXQ0pDYWVE3mAyS2Y7IIVGY7V7qjq01RQRCdv3GAgzR5hIVngRIUqA==}
 
   is-arrayish@0.2.1:
     resolution: {integrity: sha512-zz06S8t0ozoDXMG+ube26zeCTNXcKIPJZJi8hBrF4idCLms4CG9QtK7qBl1boi5ODzFpjswb5JPmHCbMpjaYzg==}
@@ -3492,7 +3492,7 @@ snapshots:
 
   inherits@2.0.4: {}
 
-  iocta@0.0.1: {}
+  iocta@0.0.2: {}
 
   is-arrayish@0.2.1: {}
 
