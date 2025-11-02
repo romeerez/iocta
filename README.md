@@ -73,7 +73,7 @@ export const authModule = defineModule({
   exports: () => ({
     authMiddleware,
     // Re-exporting example:
-    // `userService` is imported about and can be inject and exported here.
+    // `userService` is imported above and can be injected and exported here.
     userService: ({ userService } = authModule.inject("userService")) =>
       userService,
   }),
