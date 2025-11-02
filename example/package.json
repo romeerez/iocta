@@ -18,6 +18,7 @@
     "switch:npm": "rm -rf node_modules package-lock.json && npm install @morojs/moro@latest"
   },
   "dependencies": {
+    "iocta": "0.0.1",
     "@morojs/moro": "latest",
     "bcryptjs": "^2.4.3",
     "dotenv": "^17.2.3",

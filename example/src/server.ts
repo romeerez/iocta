@@ -1,4 +1,4 @@
-import { runModules } from "../../src/run.js";
+import { runModules } from "iocta";
 import { authModule } from "./modules/auth/auth.module.js";
 import { cartModule } from "./modules/cart/cart.module.js";
 import { orderModule } from "./modules/order/order.module.js";

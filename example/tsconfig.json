@@ -16,10 +16,7 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "types": ["node", "jest"],
-    "baseUrl": ".",
-    "paths": {
-      "iocta": ["../src/index.ts"]
-    }
+    "baseUrl": "."
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "dist", "tests"]

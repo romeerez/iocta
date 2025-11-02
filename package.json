@@ -1,7 +1,7 @@
 {
   "name": "iocta",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple Dependency Injection containers for TypeScript",
   "repository": "https://github.com/romeerez/iocta",
   "files": [
