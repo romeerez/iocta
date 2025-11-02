@@ -135,7 +135,7 @@ export const authService = (
 
 Use `runModules` to bundle all the modules, instantiate all dependencies.
 
-It calls `run` functions for all modules having it.
+It calls `run` on all modules in which it is present.
 
 ```ts
 const {
